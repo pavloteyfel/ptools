@@ -1,0 +1,6 @@
+swagger
+openapi.json
+swagger.json
+swagger.yaml
+api-docs
+docs
