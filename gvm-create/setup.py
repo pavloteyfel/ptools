@@ -7,7 +7,7 @@ setup(
     install_requires=[],
     entry_points={
         'console_scripts': [
-            'gvm-cteate = gvm-create:main',
+            'gvm-create = gvm-create:main',
         ],
     },
 )
